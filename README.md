@@ -1,6 +1,6 @@
-# 🚀 Neon Flow - Kanban Board
+# 🚀 Gestor de Tareas - Kanban Board
 
-**Neon Flow** es un gestor de tareas de alto rendimiento con estética *Cyberpunk/Dark Mode*. Diseñado para ofrecer una experiencia de usuario fluida, visualmente impactante y totalmente funcional para la gestión de flujos de trabajo personales o de equipo.
+**Kanban Board** es un gestor de tareas de alto rendimiento con estética *Cyberpunk/Dark Mode*. Diseñado para ofrecer una experiencia de usuario fluida, visualmente impactante y totalmente funcional para la gestión de flujos de trabajo personales o de equipo.
 
 
 
